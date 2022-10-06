@@ -9,7 +9,7 @@ This repository has 2 branches:
 
 ## Data files
 
-The "data" and "doc" directories contains 35 files each:
+The "data" directories contains 35 files each:
 
 ```
 BIOINF_3000_2022-1
