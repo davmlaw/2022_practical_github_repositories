@@ -5,7 +5,7 @@
 This repository has 2 branches:
 
 * **main** - the default branch, where new development occurs. All changes go into here
-* **stable** - a locked down branch for a critical system, the only updates are high severity bug fixes
+* **dave-dev-branch** - a branch for unstable development work, so that **main** will not be left in a broken/untested state
 
 ## Data files
 
